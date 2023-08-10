@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AAB1F550-A68F-4FA8-925D-36D70CEFD639}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WayTooLongWords CF/Program.cs">
+    <Files>
+      <File FileName="WayTooLongWords CF/Program.cs" Line="23" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WayTooLongWords CF" expanded="True">
+            <Node name="WayTooLongWords CF" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WayTooLongWords_220CF PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
