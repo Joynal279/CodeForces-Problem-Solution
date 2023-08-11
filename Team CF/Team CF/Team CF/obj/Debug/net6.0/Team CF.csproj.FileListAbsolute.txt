@@ -1,0 +1,15 @@
+/Users/joynalabedin/Documents/CodeForces Problem Solution/Team CF/Team CF/Team CF/bin/Debug/net6.0/Team CF
+/Users/joynalabedin/Documents/CodeForces Problem Solution/Team CF/Team CF/Team CF/bin/Debug/net6.0/Team CF.deps.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/Team CF/Team CF/Team CF/bin/Debug/net6.0/Team CF.runtimeconfig.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/Team CF/Team CF/Team CF/bin/Debug/net6.0/Team CF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/Team CF/Team CF/Team CF/bin/Debug/net6.0/Team CF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/Team CF/Team CF/Team CF/obj/Debug/net6.0/Team CF.csproj.AssemblyReference.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/Team CF/Team CF/Team CF/obj/Debug/net6.0/Team CF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joynalabedin/Documents/CodeForces Problem Solution/Team CF/Team CF/Team CF/obj/Debug/net6.0/Team CF.AssemblyInfoInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/Team CF/Team CF/Team CF/obj/Debug/net6.0/Team CF.AssemblyInfo.cs
+/Users/joynalabedin/Documents/CodeForces Problem Solution/Team CF/Team CF/Team CF/obj/Debug/net6.0/Team CF.csproj.CoreCompileInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/Team CF/Team CF/Team CF/obj/Debug/net6.0/Team CF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/Team CF/Team CF/Team CF/obj/Debug/net6.0/refint/Team CF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/Team CF/Team CF/Team CF/obj/Debug/net6.0/Team CF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/Team CF/Team CF/Team CF/obj/Debug/net6.0/Team CF.genruntimeconfig.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/Team CF/Team CF/Team CF/obj/Debug/net6.0/ref/Team CF.dll
