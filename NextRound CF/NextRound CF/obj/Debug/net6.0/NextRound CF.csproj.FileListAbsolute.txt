@@ -1,0 +1,15 @@
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NextRound CF/NextRound CF/bin/Debug/net6.0/NextRound CF
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NextRound CF/NextRound CF/bin/Debug/net6.0/NextRound CF.deps.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NextRound CF/NextRound CF/bin/Debug/net6.0/NextRound CF.runtimeconfig.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NextRound CF/NextRound CF/bin/Debug/net6.0/NextRound CF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NextRound CF/NextRound CF/bin/Debug/net6.0/NextRound CF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NextRound CF/NextRound CF/obj/Debug/net6.0/NextRound CF.csproj.AssemblyReference.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NextRound CF/NextRound CF/obj/Debug/net6.0/NextRound CF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NextRound CF/NextRound CF/obj/Debug/net6.0/NextRound CF.AssemblyInfoInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NextRound CF/NextRound CF/obj/Debug/net6.0/NextRound CF.AssemblyInfo.cs
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NextRound CF/NextRound CF/obj/Debug/net6.0/NextRound CF.csproj.CoreCompileInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NextRound CF/NextRound CF/obj/Debug/net6.0/NextRound CF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NextRound CF/NextRound CF/obj/Debug/net6.0/refint/NextRound CF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NextRound CF/NextRound CF/obj/Debug/net6.0/NextRound CF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NextRound CF/NextRound CF/obj/Debug/net6.0/NextRound CF.genruntimeconfig.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NextRound CF/NextRound CF/obj/Debug/net6.0/ref/NextRound CF.dll
