@@ -1,0 +1,15 @@
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BitCF/BitCF/bin/Debug/net6.0/BitCF
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BitCF/BitCF/bin/Debug/net6.0/BitCF.deps.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BitCF/BitCF/bin/Debug/net6.0/BitCF.runtimeconfig.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BitCF/BitCF/bin/Debug/net6.0/BitCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BitCF/BitCF/bin/Debug/net6.0/BitCF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BitCF/BitCF/obj/Debug/net6.0/BitCF.csproj.AssemblyReference.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BitCF/BitCF/obj/Debug/net6.0/BitCF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BitCF/BitCF/obj/Debug/net6.0/BitCF.AssemblyInfoInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BitCF/BitCF/obj/Debug/net6.0/BitCF.AssemblyInfo.cs
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BitCF/BitCF/obj/Debug/net6.0/BitCF.csproj.CoreCompileInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BitCF/BitCF/obj/Debug/net6.0/BitCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BitCF/BitCF/obj/Debug/net6.0/refint/BitCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BitCF/BitCF/obj/Debug/net6.0/BitCF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BitCF/BitCF/obj/Debug/net6.0/BitCF.genruntimeconfig.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BitCF/BitCF/obj/Debug/net6.0/ref/BitCF.dll
