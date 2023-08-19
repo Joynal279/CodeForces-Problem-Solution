@@ -1,18 +1,15 @@
 ﻿<Properties StartupConfiguration="{754A0F0F-70C0-46F9-95BB-8FAF66F12DD4}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NextRound_220CF PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="NextRound CF/Program.cs">
     <Files>
-      <File FileName="NextRound CF/Program.cs" Line="20" Column="2" />
+      <File FileName="NextRound CF/Program.cs" Line="8" Column="79" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="NextRound CF" expanded="True">
+          <Node name="NextRound CF">
             <Node name="NextRound CF">
               <Node name="Program.cs" selected="True" />
             </Node>
@@ -21,5 +18,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.NextRound_220CF PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
