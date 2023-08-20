@@ -1,0 +1,15 @@
+/Users/joynalabedin/Documents/CodeForces Problem Solution/PetyaAndStringsCF/PetyaAndStringsCF/bin/Debug/net6.0/PetyaAndStringsCF
+/Users/joynalabedin/Documents/CodeForces Problem Solution/PetyaAndStringsCF/PetyaAndStringsCF/bin/Debug/net6.0/PetyaAndStringsCF.deps.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/PetyaAndStringsCF/PetyaAndStringsCF/bin/Debug/net6.0/PetyaAndStringsCF.runtimeconfig.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/PetyaAndStringsCF/PetyaAndStringsCF/bin/Debug/net6.0/PetyaAndStringsCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/PetyaAndStringsCF/PetyaAndStringsCF/bin/Debug/net6.0/PetyaAndStringsCF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/PetyaAndStringsCF/PetyaAndStringsCF/obj/Debug/net6.0/PetyaAndStringsCF.csproj.AssemblyReference.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/PetyaAndStringsCF/PetyaAndStringsCF/obj/Debug/net6.0/PetyaAndStringsCF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joynalabedin/Documents/CodeForces Problem Solution/PetyaAndStringsCF/PetyaAndStringsCF/obj/Debug/net6.0/PetyaAndStringsCF.AssemblyInfoInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/PetyaAndStringsCF/PetyaAndStringsCF/obj/Debug/net6.0/PetyaAndStringsCF.AssemblyInfo.cs
+/Users/joynalabedin/Documents/CodeForces Problem Solution/PetyaAndStringsCF/PetyaAndStringsCF/obj/Debug/net6.0/PetyaAndStringsCF.csproj.CoreCompileInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/PetyaAndStringsCF/PetyaAndStringsCF/obj/Debug/net6.0/PetyaAndStringsCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/PetyaAndStringsCF/PetyaAndStringsCF/obj/Debug/net6.0/refint/PetyaAndStringsCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/PetyaAndStringsCF/PetyaAndStringsCF/obj/Debug/net6.0/PetyaAndStringsCF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/PetyaAndStringsCF/PetyaAndStringsCF/obj/Debug/net6.0/PetyaAndStringsCF.genruntimeconfig.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/PetyaAndStringsCF/PetyaAndStringsCF/obj/Debug/net6.0/ref/PetyaAndStringsCF.dll
