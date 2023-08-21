@@ -1,0 +1,15 @@
+/Users/joynalabedin/Documents/CodeForces Problem Solution/WordCapitalizationCF/WordCapitalizationCF/bin/Debug/net6.0/WordCapitalizationCF
+/Users/joynalabedin/Documents/CodeForces Problem Solution/WordCapitalizationCF/WordCapitalizationCF/bin/Debug/net6.0/WordCapitalizationCF.deps.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/WordCapitalizationCF/WordCapitalizationCF/bin/Debug/net6.0/WordCapitalizationCF.runtimeconfig.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/WordCapitalizationCF/WordCapitalizationCF/bin/Debug/net6.0/WordCapitalizationCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/WordCapitalizationCF/WordCapitalizationCF/bin/Debug/net6.0/WordCapitalizationCF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/WordCapitalizationCF/WordCapitalizationCF/obj/Debug/net6.0/WordCapitalizationCF.csproj.AssemblyReference.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/WordCapitalizationCF/WordCapitalizationCF/obj/Debug/net6.0/WordCapitalizationCF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joynalabedin/Documents/CodeForces Problem Solution/WordCapitalizationCF/WordCapitalizationCF/obj/Debug/net6.0/WordCapitalizationCF.AssemblyInfoInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/WordCapitalizationCF/WordCapitalizationCF/obj/Debug/net6.0/WordCapitalizationCF.AssemblyInfo.cs
+/Users/joynalabedin/Documents/CodeForces Problem Solution/WordCapitalizationCF/WordCapitalizationCF/obj/Debug/net6.0/WordCapitalizationCF.csproj.CoreCompileInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/WordCapitalizationCF/WordCapitalizationCF/obj/Debug/net6.0/WordCapitalizationCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/WordCapitalizationCF/WordCapitalizationCF/obj/Debug/net6.0/refint/WordCapitalizationCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/WordCapitalizationCF/WordCapitalizationCF/obj/Debug/net6.0/WordCapitalizationCF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/WordCapitalizationCF/WordCapitalizationCF/obj/Debug/net6.0/WordCapitalizationCF.genruntimeconfig.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/WordCapitalizationCF/WordCapitalizationCF/obj/Debug/net6.0/ref/WordCapitalizationCF.dll
