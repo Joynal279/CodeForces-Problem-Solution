@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{EDFF5F06-190B-481B-B0CD-CD51837056C4}|Default">
-  <MonoDevelop.Ide.ItemProperties.HelpfulMathsCF FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HelpfulMathsCF PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -8,7 +8,7 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="HelpfulMathsCF/Program.cs">
     <Files>
-      <File FileName="HelpfulMathsCF/Program.cs" Line="2" Column="68" />
+      <File FileName="HelpfulMathsCF/Program.cs" Line="12" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
