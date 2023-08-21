@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{E8F5A367-C779-4CC2-9C2D-DC29B5B271B4}|Default">
-  <MonoDevelop.Ide.ItemProperties.WordCapitalizationCF FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WordCapitalizationCF PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WordCapitalizationCF/Program.cs">
+    <Files>
+      <File FileName="WordCapitalizationCF/Program.cs" Line="6" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WordCapitalizationCF">
+            <Node name="WordCapitalizationCF">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
