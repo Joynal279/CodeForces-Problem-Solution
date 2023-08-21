@@ -1,0 +1,15 @@
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BoyOrGirlCF/BoyOrGirlCF/bin/Debug/net6.0/BoyOrGirlCF
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BoyOrGirlCF/BoyOrGirlCF/bin/Debug/net6.0/BoyOrGirlCF.deps.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BoyOrGirlCF/BoyOrGirlCF/bin/Debug/net6.0/BoyOrGirlCF.runtimeconfig.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BoyOrGirlCF/BoyOrGirlCF/bin/Debug/net6.0/BoyOrGirlCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BoyOrGirlCF/BoyOrGirlCF/bin/Debug/net6.0/BoyOrGirlCF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BoyOrGirlCF/BoyOrGirlCF/obj/Debug/net6.0/BoyOrGirlCF.csproj.AssemblyReference.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BoyOrGirlCF/BoyOrGirlCF/obj/Debug/net6.0/BoyOrGirlCF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BoyOrGirlCF/BoyOrGirlCF/obj/Debug/net6.0/BoyOrGirlCF.AssemblyInfoInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BoyOrGirlCF/BoyOrGirlCF/obj/Debug/net6.0/BoyOrGirlCF.AssemblyInfo.cs
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BoyOrGirlCF/BoyOrGirlCF/obj/Debug/net6.0/BoyOrGirlCF.csproj.CoreCompileInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BoyOrGirlCF/BoyOrGirlCF/obj/Debug/net6.0/BoyOrGirlCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BoyOrGirlCF/BoyOrGirlCF/obj/Debug/net6.0/refint/BoyOrGirlCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BoyOrGirlCF/BoyOrGirlCF/obj/Debug/net6.0/BoyOrGirlCF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BoyOrGirlCF/BoyOrGirlCF/obj/Debug/net6.0/BoyOrGirlCF.genruntimeconfig.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/BoyOrGirlCF/BoyOrGirlCF/obj/Debug/net6.0/ref/BoyOrGirlCF.dll
