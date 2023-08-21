@@ -1,0 +1,15 @@
+/Users/joynalabedin/Documents/CodeForces Problem Solution/HelpfulMathsCF/HelpfulMathsCF/bin/Debug/net6.0/HelpfulMathsCF
+/Users/joynalabedin/Documents/CodeForces Problem Solution/HelpfulMathsCF/HelpfulMathsCF/bin/Debug/net6.0/HelpfulMathsCF.deps.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/HelpfulMathsCF/HelpfulMathsCF/bin/Debug/net6.0/HelpfulMathsCF.runtimeconfig.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/HelpfulMathsCF/HelpfulMathsCF/bin/Debug/net6.0/HelpfulMathsCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/HelpfulMathsCF/HelpfulMathsCF/bin/Debug/net6.0/HelpfulMathsCF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/HelpfulMathsCF/HelpfulMathsCF/obj/Debug/net6.0/HelpfulMathsCF.csproj.AssemblyReference.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/HelpfulMathsCF/HelpfulMathsCF/obj/Debug/net6.0/HelpfulMathsCF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joynalabedin/Documents/CodeForces Problem Solution/HelpfulMathsCF/HelpfulMathsCF/obj/Debug/net6.0/HelpfulMathsCF.AssemblyInfoInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/HelpfulMathsCF/HelpfulMathsCF/obj/Debug/net6.0/HelpfulMathsCF.AssemblyInfo.cs
+/Users/joynalabedin/Documents/CodeForces Problem Solution/HelpfulMathsCF/HelpfulMathsCF/obj/Debug/net6.0/HelpfulMathsCF.csproj.CoreCompileInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/HelpfulMathsCF/HelpfulMathsCF/obj/Debug/net6.0/HelpfulMathsCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/HelpfulMathsCF/HelpfulMathsCF/obj/Debug/net6.0/refint/HelpfulMathsCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/HelpfulMathsCF/HelpfulMathsCF/obj/Debug/net6.0/HelpfulMathsCF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/HelpfulMathsCF/HelpfulMathsCF/obj/Debug/net6.0/HelpfulMathsCF.genruntimeconfig.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/HelpfulMathsCF/HelpfulMathsCF/obj/Debug/net6.0/ref/HelpfulMathsCF.dll
