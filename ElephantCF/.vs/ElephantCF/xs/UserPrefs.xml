@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{D6B7D4D6-019F-44B2-A8F4-B2957BCE820A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ElephantCF FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ElephantCF/Program.cs">
+    <Files>
+      <File FileName="ElephantCF/Program.cs" Line="10" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ElephantCF" expanded="True">
+            <Node name="ElephantCF">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ElephantCF PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
