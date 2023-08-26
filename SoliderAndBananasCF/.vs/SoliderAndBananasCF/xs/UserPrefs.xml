@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{04F1BF90-5B82-422E-AB64-1F99C827F375}|Default">
-  <MonoDevelop.Ide.ItemProperties.SoliderAndBananasCF FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SoliderAndBananasCF PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SoliderAndBananasCF/Program.cs">
+    <Files>
+      <File FileName="SoliderAndBananasCF/Program.cs" Line="20" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SoliderAndBananasCF" expanded="True">
+            <Node name="SoliderAndBananasCF">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
