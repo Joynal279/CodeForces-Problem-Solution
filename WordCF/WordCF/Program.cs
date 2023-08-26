@@ -1,6 +1,4 @@
 ﻿var inputWord = Console.ReadLine();
-
-
 var totalChar = 0;
 var totalUpper = 0;
 
