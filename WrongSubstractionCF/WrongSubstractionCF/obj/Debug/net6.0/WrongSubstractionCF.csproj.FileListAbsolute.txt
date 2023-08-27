@@ -1,0 +1,15 @@
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WrongSubstractionCF/WrongSubstractionCF/bin/Debug/net6.0/WrongSubstractionCF
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WrongSubstractionCF/WrongSubstractionCF/bin/Debug/net6.0/WrongSubstractionCF.deps.json
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WrongSubstractionCF/WrongSubstractionCF/bin/Debug/net6.0/WrongSubstractionCF.runtimeconfig.json
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WrongSubstractionCF/WrongSubstractionCF/bin/Debug/net6.0/WrongSubstractionCF.dll
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WrongSubstractionCF/WrongSubstractionCF/bin/Debug/net6.0/WrongSubstractionCF.pdb
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WrongSubstractionCF/WrongSubstractionCF/obj/Debug/net6.0/WrongSubstractionCF.csproj.AssemblyReference.cache
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WrongSubstractionCF/WrongSubstractionCF/obj/Debug/net6.0/WrongSubstractionCF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WrongSubstractionCF/WrongSubstractionCF/obj/Debug/net6.0/WrongSubstractionCF.AssemblyInfoInputs.cache
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WrongSubstractionCF/WrongSubstractionCF/obj/Debug/net6.0/WrongSubstractionCF.AssemblyInfo.cs
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WrongSubstractionCF/WrongSubstractionCF/obj/Debug/net6.0/WrongSubstractionCF.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WrongSubstractionCF/WrongSubstractionCF/obj/Debug/net6.0/WrongSubstractionCF.dll
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WrongSubstractionCF/WrongSubstractionCF/obj/Debug/net6.0/refint/WrongSubstractionCF.dll
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WrongSubstractionCF/WrongSubstractionCF/obj/Debug/net6.0/WrongSubstractionCF.pdb
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WrongSubstractionCF/WrongSubstractionCF/obj/Debug/net6.0/WrongSubstractionCF.genruntimeconfig.cache
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WrongSubstractionCF/WrongSubstractionCF/obj/Debug/net6.0/ref/WrongSubstractionCF.dll
