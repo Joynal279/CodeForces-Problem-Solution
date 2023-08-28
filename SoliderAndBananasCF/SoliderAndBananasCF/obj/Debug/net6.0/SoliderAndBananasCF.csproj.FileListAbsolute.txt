@@ -1,0 +1,15 @@
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/SoliderAndBananasCF/SoliderAndBananasCF/bin/Debug/net6.0/SoliderAndBananasCF
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/SoliderAndBananasCF/SoliderAndBananasCF/bin/Debug/net6.0/SoliderAndBananasCF.deps.json
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/SoliderAndBananasCF/SoliderAndBananasCF/bin/Debug/net6.0/SoliderAndBananasCF.runtimeconfig.json
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/SoliderAndBananasCF/SoliderAndBananasCF/bin/Debug/net6.0/SoliderAndBananasCF.dll
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/SoliderAndBananasCF/SoliderAndBananasCF/bin/Debug/net6.0/SoliderAndBananasCF.pdb
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/SoliderAndBananasCF/SoliderAndBananasCF/obj/Debug/net6.0/SoliderAndBananasCF.csproj.AssemblyReference.cache
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/SoliderAndBananasCF/SoliderAndBananasCF/obj/Debug/net6.0/SoliderAndBananasCF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/SoliderAndBananasCF/SoliderAndBananasCF/obj/Debug/net6.0/SoliderAndBananasCF.AssemblyInfoInputs.cache
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/SoliderAndBananasCF/SoliderAndBananasCF/obj/Debug/net6.0/SoliderAndBananasCF.AssemblyInfo.cs
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/SoliderAndBananasCF/SoliderAndBananasCF/obj/Debug/net6.0/SoliderAndBananasCF.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/SoliderAndBananasCF/SoliderAndBananasCF/obj/Debug/net6.0/SoliderAndBananasCF.dll
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/SoliderAndBananasCF/SoliderAndBananasCF/obj/Debug/net6.0/refint/SoliderAndBananasCF.dll
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/SoliderAndBananasCF/SoliderAndBananasCF/obj/Debug/net6.0/SoliderAndBananasCF.pdb
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/SoliderAndBananasCF/SoliderAndBananasCF/obj/Debug/net6.0/SoliderAndBananasCF.genruntimeconfig.cache
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/SoliderAndBananasCF/SoliderAndBananasCF/obj/Debug/net6.0/ref/SoliderAndBananasCF.dll

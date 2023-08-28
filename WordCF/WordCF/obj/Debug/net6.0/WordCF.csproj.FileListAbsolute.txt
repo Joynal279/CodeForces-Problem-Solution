@@ -1,0 +1,15 @@
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WordCF/WordCF/bin/Debug/net6.0/WordCF
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WordCF/WordCF/bin/Debug/net6.0/WordCF.deps.json
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WordCF/WordCF/bin/Debug/net6.0/WordCF.runtimeconfig.json
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WordCF/WordCF/bin/Debug/net6.0/WordCF.dll
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WordCF/WordCF/bin/Debug/net6.0/WordCF.pdb
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WordCF/WordCF/obj/Debug/net6.0/WordCF.csproj.AssemblyReference.cache
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WordCF/WordCF/obj/Debug/net6.0/WordCF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WordCF/WordCF/obj/Debug/net6.0/WordCF.AssemblyInfoInputs.cache
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WordCF/WordCF/obj/Debug/net6.0/WordCF.AssemblyInfo.cs
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WordCF/WordCF/obj/Debug/net6.0/WordCF.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WordCF/WordCF/obj/Debug/net6.0/WordCF.dll
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WordCF/WordCF/obj/Debug/net6.0/refint/WordCF.dll
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WordCF/WordCF/obj/Debug/net6.0/WordCF.pdb
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WordCF/WordCF/obj/Debug/net6.0/WordCF.genruntimeconfig.cache
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/WordCF/WordCF/obj/Debug/net6.0/ref/WordCF.dll

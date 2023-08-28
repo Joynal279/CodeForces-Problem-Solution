@@ -1,0 +1,15 @@
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/ElephantCF/ElephantCF/bin/Debug/net6.0/ElephantCF
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/ElephantCF/ElephantCF/bin/Debug/net6.0/ElephantCF.deps.json
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/ElephantCF/ElephantCF/bin/Debug/net6.0/ElephantCF.runtimeconfig.json
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/ElephantCF/ElephantCF/bin/Debug/net6.0/ElephantCF.dll
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/ElephantCF/ElephantCF/bin/Debug/net6.0/ElephantCF.pdb
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/ElephantCF/ElephantCF/obj/Debug/net6.0/ElephantCF.csproj.AssemblyReference.cache
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/ElephantCF/ElephantCF/obj/Debug/net6.0/ElephantCF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/ElephantCF/ElephantCF/obj/Debug/net6.0/ElephantCF.AssemblyInfoInputs.cache
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/ElephantCF/ElephantCF/obj/Debug/net6.0/ElephantCF.AssemblyInfo.cs
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/ElephantCF/ElephantCF/obj/Debug/net6.0/ElephantCF.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/ElephantCF/ElephantCF/obj/Debug/net6.0/ElephantCF.dll
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/ElephantCF/ElephantCF/obj/Debug/net6.0/refint/ElephantCF.dll
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/ElephantCF/ElephantCF/obj/Debug/net6.0/ElephantCF.pdb
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/ElephantCF/ElephantCF/obj/Debug/net6.0/ElephantCF.genruntimeconfig.cache
+/Users/mac/Documents/DotNet/CodeForces-Problem-Solution/ElephantCF/ElephantCF/obj/Debug/net6.0/ref/ElephantCF.dll

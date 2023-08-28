@@ -1,0 +1,15 @@
+/Users/mac/Documents/CodeForces Problem/BobAndBrotherCF/BobAndBrotherCF/bin/Debug/net6.0/BobAndBrotherCF
+/Users/mac/Documents/CodeForces Problem/BobAndBrotherCF/BobAndBrotherCF/bin/Debug/net6.0/BobAndBrotherCF.deps.json
+/Users/mac/Documents/CodeForces Problem/BobAndBrotherCF/BobAndBrotherCF/bin/Debug/net6.0/BobAndBrotherCF.runtimeconfig.json
+/Users/mac/Documents/CodeForces Problem/BobAndBrotherCF/BobAndBrotherCF/bin/Debug/net6.0/BobAndBrotherCF.dll
+/Users/mac/Documents/CodeForces Problem/BobAndBrotherCF/BobAndBrotherCF/bin/Debug/net6.0/BobAndBrotherCF.pdb
+/Users/mac/Documents/CodeForces Problem/BobAndBrotherCF/BobAndBrotherCF/obj/Debug/net6.0/BobAndBrotherCF.csproj.AssemblyReference.cache
+/Users/mac/Documents/CodeForces Problem/BobAndBrotherCF/BobAndBrotherCF/obj/Debug/net6.0/BobAndBrotherCF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/CodeForces Problem/BobAndBrotherCF/BobAndBrotherCF/obj/Debug/net6.0/BobAndBrotherCF.AssemblyInfoInputs.cache
+/Users/mac/Documents/CodeForces Problem/BobAndBrotherCF/BobAndBrotherCF/obj/Debug/net6.0/BobAndBrotherCF.AssemblyInfo.cs
+/Users/mac/Documents/CodeForces Problem/BobAndBrotherCF/BobAndBrotherCF/obj/Debug/net6.0/BobAndBrotherCF.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/CodeForces Problem/BobAndBrotherCF/BobAndBrotherCF/obj/Debug/net6.0/BobAndBrotherCF.dll
+/Users/mac/Documents/CodeForces Problem/BobAndBrotherCF/BobAndBrotherCF/obj/Debug/net6.0/refint/BobAndBrotherCF.dll
+/Users/mac/Documents/CodeForces Problem/BobAndBrotherCF/BobAndBrotherCF/obj/Debug/net6.0/BobAndBrotherCF.pdb
+/Users/mac/Documents/CodeForces Problem/BobAndBrotherCF/BobAndBrotherCF/obj/Debug/net6.0/BobAndBrotherCF.genruntimeconfig.cache
+/Users/mac/Documents/CodeForces Problem/BobAndBrotherCF/BobAndBrotherCF/obj/Debug/net6.0/ref/BobAndBrotherCF.dll
