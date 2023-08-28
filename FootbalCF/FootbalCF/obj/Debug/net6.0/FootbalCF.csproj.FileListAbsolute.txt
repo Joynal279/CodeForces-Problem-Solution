@@ -1,0 +1,15 @@
+/Users/joynalabedin/Documents/CodeForces Problem Solution/FootbalCF/FootbalCF/bin/Debug/net6.0/FootbalCF
+/Users/joynalabedin/Documents/CodeForces Problem Solution/FootbalCF/FootbalCF/bin/Debug/net6.0/FootbalCF.deps.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/FootbalCF/FootbalCF/bin/Debug/net6.0/FootbalCF.runtimeconfig.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/FootbalCF/FootbalCF/bin/Debug/net6.0/FootbalCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/FootbalCF/FootbalCF/bin/Debug/net6.0/FootbalCF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/FootbalCF/FootbalCF/obj/Debug/net6.0/FootbalCF.csproj.AssemblyReference.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/FootbalCF/FootbalCF/obj/Debug/net6.0/FootbalCF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joynalabedin/Documents/CodeForces Problem Solution/FootbalCF/FootbalCF/obj/Debug/net6.0/FootbalCF.AssemblyInfoInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/FootbalCF/FootbalCF/obj/Debug/net6.0/FootbalCF.AssemblyInfo.cs
+/Users/joynalabedin/Documents/CodeForces Problem Solution/FootbalCF/FootbalCF/obj/Debug/net6.0/FootbalCF.csproj.CoreCompileInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/FootbalCF/FootbalCF/obj/Debug/net6.0/FootbalCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/FootbalCF/FootbalCF/obj/Debug/net6.0/refint/FootbalCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/FootbalCF/FootbalCF/obj/Debug/net6.0/FootbalCF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/FootbalCF/FootbalCF/obj/Debug/net6.0/FootbalCF.genruntimeconfig.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/FootbalCF/FootbalCF/obj/Debug/net6.0/ref/FootbalCF.dll
