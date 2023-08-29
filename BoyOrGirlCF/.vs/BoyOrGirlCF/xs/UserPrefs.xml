@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{FDAC72D4-EE67-48A1-A3E0-65C777A33219}|Default">
-  <MonoDevelop.Ide.ItemProperties.BoyOrGirlCF FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BoyOrGirlCF PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BoyOrGirlCF/Program.cs">
+    <Files>
+      <File FileName="BoyOrGirlCF/Program.cs" Line="6" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BoyOrGirlCF">
+            <Node name="BoyOrGirlCF">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
