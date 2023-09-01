@@ -1,0 +1,15 @@
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NearlyLuckyNumberCF/NearlyLuckyNumberCF/bin/Debug/net6.0/NearlyLuckyNumberCF
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NearlyLuckyNumberCF/NearlyLuckyNumberCF/bin/Debug/net6.0/NearlyLuckyNumberCF.deps.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NearlyLuckyNumberCF/NearlyLuckyNumberCF/bin/Debug/net6.0/NearlyLuckyNumberCF.runtimeconfig.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NearlyLuckyNumberCF/NearlyLuckyNumberCF/bin/Debug/net6.0/NearlyLuckyNumberCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NearlyLuckyNumberCF/NearlyLuckyNumberCF/bin/Debug/net6.0/NearlyLuckyNumberCF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NearlyLuckyNumberCF/NearlyLuckyNumberCF/obj/Debug/net6.0/NearlyLuckyNumberCF.csproj.AssemblyReference.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NearlyLuckyNumberCF/NearlyLuckyNumberCF/obj/Debug/net6.0/NearlyLuckyNumberCF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NearlyLuckyNumberCF/NearlyLuckyNumberCF/obj/Debug/net6.0/NearlyLuckyNumberCF.AssemblyInfoInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NearlyLuckyNumberCF/NearlyLuckyNumberCF/obj/Debug/net6.0/NearlyLuckyNumberCF.AssemblyInfo.cs
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NearlyLuckyNumberCF/NearlyLuckyNumberCF/obj/Debug/net6.0/NearlyLuckyNumberCF.csproj.CoreCompileInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NearlyLuckyNumberCF/NearlyLuckyNumberCF/obj/Debug/net6.0/NearlyLuckyNumberCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NearlyLuckyNumberCF/NearlyLuckyNumberCF/obj/Debug/net6.0/refint/NearlyLuckyNumberCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NearlyLuckyNumberCF/NearlyLuckyNumberCF/obj/Debug/net6.0/NearlyLuckyNumberCF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NearlyLuckyNumberCF/NearlyLuckyNumberCF/obj/Debug/net6.0/NearlyLuckyNumberCF.genruntimeconfig.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/NearlyLuckyNumberCF/NearlyLuckyNumberCF/obj/Debug/net6.0/ref/NearlyLuckyNumberCF.dll
