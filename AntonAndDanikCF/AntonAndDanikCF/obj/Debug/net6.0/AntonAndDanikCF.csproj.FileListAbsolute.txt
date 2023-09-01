@@ -1,0 +1,15 @@
+/Users/joynalabedin/Documents/CodeForces Problem Solution/AntonAndDanikCF/AntonAndDanikCF/bin/Debug/net6.0/AntonAndDanikCF
+/Users/joynalabedin/Documents/CodeForces Problem Solution/AntonAndDanikCF/AntonAndDanikCF/bin/Debug/net6.0/AntonAndDanikCF.deps.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/AntonAndDanikCF/AntonAndDanikCF/bin/Debug/net6.0/AntonAndDanikCF.runtimeconfig.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/AntonAndDanikCF/AntonAndDanikCF/bin/Debug/net6.0/AntonAndDanikCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/AntonAndDanikCF/AntonAndDanikCF/bin/Debug/net6.0/AntonAndDanikCF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/AntonAndDanikCF/AntonAndDanikCF/obj/Debug/net6.0/AntonAndDanikCF.csproj.AssemblyReference.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/AntonAndDanikCF/AntonAndDanikCF/obj/Debug/net6.0/AntonAndDanikCF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joynalabedin/Documents/CodeForces Problem Solution/AntonAndDanikCF/AntonAndDanikCF/obj/Debug/net6.0/AntonAndDanikCF.AssemblyInfoInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/AntonAndDanikCF/AntonAndDanikCF/obj/Debug/net6.0/AntonAndDanikCF.AssemblyInfo.cs
+/Users/joynalabedin/Documents/CodeForces Problem Solution/AntonAndDanikCF/AntonAndDanikCF/obj/Debug/net6.0/AntonAndDanikCF.csproj.CoreCompileInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/AntonAndDanikCF/AntonAndDanikCF/obj/Debug/net6.0/AntonAndDanikCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/AntonAndDanikCF/AntonAndDanikCF/obj/Debug/net6.0/refint/AntonAndDanikCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/AntonAndDanikCF/AntonAndDanikCF/obj/Debug/net6.0/AntonAndDanikCF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/AntonAndDanikCF/AntonAndDanikCF/obj/Debug/net6.0/AntonAndDanikCF.genruntimeconfig.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/AntonAndDanikCF/AntonAndDanikCF/obj/Debug/net6.0/ref/AntonAndDanikCF.dll
