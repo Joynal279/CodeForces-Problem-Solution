@@ -1,18 +1,18 @@
 ﻿<Properties StartupConfiguration="{073EAC62-75EA-45AE-A131-74388B24C057}|Default">
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BeautifulMatrixCF FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="BeautifulMatrixCF/Program.cs">
     <Files>
-      <File FileName="BeautifulMatrixCF/Program.cs" Line="7" Column="28" />
+      <File FileName="BeautifulMatrixCF/Program.cs" Line="6" Column="87" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="BeautifulMatrixCF" expanded="True">
+          <Node name="BeautifulMatrixCF">
             <Node name="BeautifulMatrixCF" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
@@ -21,5 +21,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.BeautifulMatrixCF FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
 </Properties>

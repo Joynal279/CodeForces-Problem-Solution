@@ -1,0 +1,15 @@
+/Users/joynalabedin/Documents/CodeForces Problem Solution/TranslationCF/TranslationCF/bin/Debug/net6.0/TranslationCF
+/Users/joynalabedin/Documents/CodeForces Problem Solution/TranslationCF/TranslationCF/bin/Debug/net6.0/TranslationCF.deps.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/TranslationCF/TranslationCF/bin/Debug/net6.0/TranslationCF.runtimeconfig.json
+/Users/joynalabedin/Documents/CodeForces Problem Solution/TranslationCF/TranslationCF/bin/Debug/net6.0/TranslationCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/TranslationCF/TranslationCF/bin/Debug/net6.0/TranslationCF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/TranslationCF/TranslationCF/obj/Debug/net6.0/TranslationCF.csproj.AssemblyReference.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/TranslationCF/TranslationCF/obj/Debug/net6.0/TranslationCF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joynalabedin/Documents/CodeForces Problem Solution/TranslationCF/TranslationCF/obj/Debug/net6.0/TranslationCF.AssemblyInfoInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/TranslationCF/TranslationCF/obj/Debug/net6.0/TranslationCF.AssemblyInfo.cs
+/Users/joynalabedin/Documents/CodeForces Problem Solution/TranslationCF/TranslationCF/obj/Debug/net6.0/TranslationCF.csproj.CoreCompileInputs.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/TranslationCF/TranslationCF/obj/Debug/net6.0/TranslationCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/TranslationCF/TranslationCF/obj/Debug/net6.0/refint/TranslationCF.dll
+/Users/joynalabedin/Documents/CodeForces Problem Solution/TranslationCF/TranslationCF/obj/Debug/net6.0/TranslationCF.pdb
+/Users/joynalabedin/Documents/CodeForces Problem Solution/TranslationCF/TranslationCF/obj/Debug/net6.0/TranslationCF.genruntimeconfig.cache
+/Users/joynalabedin/Documents/CodeForces Problem Solution/TranslationCF/TranslationCF/obj/Debug/net6.0/ref/TranslationCF.dll
