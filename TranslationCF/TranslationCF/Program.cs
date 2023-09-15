@@ -7,12 +7,10 @@ string reversedStr = new string(stringArray);
 
 if (firstInput == reversedStr)
 {
-    Console.WriteLine(reversedStr);
     Console.WriteLine("YES");
 }
 else
 {
-    Console.WriteLine(reversedStr);
     Console.WriteLine("NO");
 }
 
